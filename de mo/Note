@@ -1,0 +1,16 @@
+-khái niệm thuật toán
+-yêu cầu
+-input và output
+
+
+-Thuật toán tìm kiếm
+   - Tuyến tính
+        -Duyệt lần lượt 0->n
+   - Nhị phân
+        - MẢng phải được sắp xếp
+        - Chia nửa ra xong để duyệt()
+        - Bằng số
+
+-So sánh thuật toán (Độ phức tạp: Complecity)
+  - Thời gian: Time complecity
+  - Bộ nhớ : Space Complecity
